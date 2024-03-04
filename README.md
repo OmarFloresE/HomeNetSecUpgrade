@@ -31,5 +31,8 @@ Often, we set up our internet service and don't give it a second thought. But wh
   - Configuring and Customizing
   - Understanding SIEM Data
   - Ongoing SIEM Maintenance
+
+ **Continue onward to the [Wiki](https://github.com/OmarFloresE/HomeNetSecUpgrade/wiki) for the detailed deployment guide!**
+
  
 ***Feedback and contributions are welcome! If you have any questions or suggestions, feel free to open an issue or submit a pull request.***
