@@ -14,7 +14,6 @@ Often, we set up our internet service and don't give it a second thought. But wh
   -   Guest Networks
   -   Disabling Features
   -   Firewall Settings
-  -   SSID Broadcast
   
 - VPN and Privacy Enhancements
   - What is a VPN?
